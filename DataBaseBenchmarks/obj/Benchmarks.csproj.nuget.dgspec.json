@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/DataBaseBenchmarks/Benchmarks.csproj": {}
+    "C:\\Users\\mohamad\\Source\\Repos\\server\\DataBaseBenchmarks\\Benchmarks.csproj": {}
   },
   "projects": {
-    "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Application/Application.csproj": {
+    "C:\\Users\\mohamad\\Source\\Repos\\server\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Application/Application.csproj",
+        "projectUniqueName": "C:\\Users\\mohamad\\Source\\Repos\\server\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Application/Application.csproj",
-        "packagesPath": "/home/ubuntu/.nuget/packages/",
-        "outputPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Application/obj/",
+        "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\mohamad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mohamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Domain/Domain.csproj": {
-                "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Domain/Domain.csproj"
+              "C:\\Users\\mohamad\\Source\\Repos\\server\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\Domain\\Domain.csproj"
               }
             }
           }
@@ -58,49 +60,41 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/DataBaseBenchmarks/Benchmarks.csproj": {
+    "C:\\Users\\mohamad\\Source\\Repos\\server\\DataBaseBenchmarks\\Benchmarks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/DataBaseBenchmarks/Benchmarks.csproj",
+        "projectUniqueName": "C:\\Users\\mohamad\\Source\\Repos\\server\\DataBaseBenchmarks\\Benchmarks.csproj",
         "projectName": "Benchmarks",
-        "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/DataBaseBenchmarks/Benchmarks.csproj",
-        "packagesPath": "/home/ubuntu/.nuget/packages/",
-        "outputPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/DataBaseBenchmarks/obj/",
+        "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\DataBaseBenchmarks\\Benchmarks.csproj",
+        "packagesPath": "C:\\Users\\mohamad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\DataBaseBenchmarks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mohamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Infrastructure/Infrastructure.csproj": {
-                "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Infrastructure/Infrastructure.csproj"
+              "C:\\Users\\mohamad\\Source\\Repos\\server\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -131,53 +125,41 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[6.0.23, 6.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Domain/Domain.csproj": {
+    "C:\\Users\\mohamad\\Source\\Repos\\server\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Domain/Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mohamad\\Source\\Repos\\server\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Domain/Domain.csproj",
-        "packagesPath": "/home/ubuntu/.nuget/packages/",
-        "outputPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Domain/obj/",
+        "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\mohamad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mohamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedKernal/SharedKernal.csproj": {
-                "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedKernal/SharedKernal.csproj"
+              "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedKernal\\SharedKernal.csproj": {
+                "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedKernal\\SharedKernal.csproj"
               }
             }
           }
@@ -202,52 +184,44 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Infrastructure/Infrastructure.csproj": {
+    "C:\\Users\\mohamad\\Source\\Repos\\server\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\mohamad\\Source\\Repos\\server\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Infrastructure/Infrastructure.csproj",
-        "packagesPath": "/home/ubuntu/.nuget/packages/",
-        "outputPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Infrastructure/obj/",
+        "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mohamad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mohamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Application/Application.csproj": {
-                "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Application/Application.csproj"
+              "C:\\Users\\mohamad\\Source\\Repos\\server\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\Application\\Application.csproj"
               },
-              "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedResources/SharedResources.csproj": {
-                "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedResources/SharedResources.csproj"
+              "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedResources\\SharedResources.csproj": {
+                "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedResources\\SharedResources.csproj"
               }
             }
           }
@@ -306,41 +280,33 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedKernal/SharedKernal.csproj": {
+    "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedKernal\\SharedKernal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedKernal/SharedKernal.csproj",
+        "projectUniqueName": "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedKernal\\SharedKernal.csproj",
         "projectName": "SharedKernal",
-        "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedKernal/SharedKernal.csproj",
-        "packagesPath": "/home/ubuntu/.nuget/packages/",
-        "outputPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedKernal/obj/",
+        "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedKernal\\SharedKernal.csproj",
+        "packagesPath": "C:\\Users\\mohamad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedKernal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mohamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -379,41 +345,33 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedResources/SharedResources.csproj": {
+    "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedResources\\SharedResources.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedResources/SharedResources.csproj",
+        "projectUniqueName": "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedResources\\SharedResources.csproj",
         "projectName": "SharedResources",
-        "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedResources/SharedResources.csproj",
-        "packagesPath": "/home/ubuntu/.nuget/packages/",
-        "outputPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedResources/obj/",
+        "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedResources\\SharedResources.csproj",
+        "packagesPath": "C:\\Users\\mohamad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedResources\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mohamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -448,22 +406,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

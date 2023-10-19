@@ -6135,32 +6135,34 @@
     ]
   },
   "packageFolders": {
-    "/home/ubuntu/.nuget/packages/": {}
+    "C:\\Users\\mohamad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/UnitTests/UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\mohamad\\Source\\Repos\\server\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/UnitTests/UnitTests.csproj",
-      "packagesPath": "/home/ubuntu/.nuget/packages/",
-      "outputPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/UnitTests/obj/",
+      "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\UnitTests\\UnitTests.csproj",
+      "packagesPath": "C:\\Users\\mohamad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mohamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Application/Application.csproj": {
-              "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/Application/Application.csproj"
+            "C:\\Users\\mohamad\\Source\\Repos\\server\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\Application\\Application.csproj"
             }
           }
         }
@@ -6213,22 +6215,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.23, 6.0.23]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.23, 6.0.23]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedResources/SharedResources.csproj": {}
+    "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedResources\\SharedResources.csproj": {}
   },
   "projects": {
-    "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedResources/SharedResources.csproj": {
+    "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedResources\\SharedResources.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedResources/SharedResources.csproj",
+        "projectUniqueName": "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedResources\\SharedResources.csproj",
         "projectName": "SharedResources",
-        "projectPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedResources/SharedResources.csproj",
-        "packagesPath": "/home/ubuntu/.nuget/packages/",
-        "outputPath": "/home/ubuntu/server-work-space/back-end/AspDotNetRestaurant/SharedResources/obj/",
+        "projectPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedResources\\SharedResources.csproj",
+        "packagesPath": "C:\\Users\\mohamad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohamad\\Source\\Repos\\server\\SharedResources\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mohamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,22 +56,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.23, 6.0.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

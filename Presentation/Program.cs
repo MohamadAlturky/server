@@ -138,7 +138,7 @@ app.UseRequestLocalization(options.Value);
 
 
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 app.UseCors(AllowSpecificOrigins);
 app.UseStaticFiles();
 
